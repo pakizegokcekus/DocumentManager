@@ -1,0 +1,12 @@
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\bin\Debug\net5.0\BlueLoggingLibrary.deps.json
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\bin\Debug\net5.0\BlueLoggingLibrary.dll
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\bin\Debug\net5.0\ref\BlueLoggingLibrary.dll
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\bin\Debug\net5.0\BlueLoggingLibrary.pdb
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\obj\Debug\net5.0\BlueLoggingLibrary.csproj.AssemblyReference.cache
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\obj\Debug\net5.0\BlueLoggingLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\obj\Debug\net5.0\BlueLoggingLibrary.AssemblyInfoInputs.cache
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\obj\Debug\net5.0\BlueLoggingLibrary.AssemblyInfo.cs
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\obj\Debug\net5.0\BlueLoggingLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\obj\Debug\net5.0\BlueLoggingLibrary.dll
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\obj\Debug\net5.0\ref\BlueLoggingLibrary.dll
+C:\Users\kuspa\source\repos\DocumentManager\BlueLoggingLibrary\obj\Debug\net5.0\BlueLoggingLibrary.pdb

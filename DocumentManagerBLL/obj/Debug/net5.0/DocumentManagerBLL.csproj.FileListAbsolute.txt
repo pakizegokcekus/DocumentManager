@@ -1,0 +1,12 @@
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\bin\Debug\net5.0\DocumentManagerBLL.deps.json
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\bin\Debug\net5.0\DocumentManagerBLL.dll
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\bin\Debug\net5.0\ref\DocumentManagerBLL.dll
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\bin\Debug\net5.0\DocumentManagerBLL.pdb
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\obj\Debug\net5.0\DocumentManagerBLL.csproj.AssemblyReference.cache
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\obj\Debug\net5.0\DocumentManagerBLL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\obj\Debug\net5.0\DocumentManagerBLL.AssemblyInfoInputs.cache
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\obj\Debug\net5.0\DocumentManagerBLL.AssemblyInfo.cs
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\obj\Debug\net5.0\DocumentManagerBLL.csproj.CoreCompileInputs.cache
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\obj\Debug\net5.0\DocumentManagerBLL.dll
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\obj\Debug\net5.0\ref\DocumentManagerBLL.dll
+C:\Users\kuspa\source\repos\DocumentManager\DocumentManagerBLL\obj\Debug\net5.0\DocumentManagerBLL.pdb
